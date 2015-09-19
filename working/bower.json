@@ -1,0 +1,15 @@
+{
+  "name": "ChipotleMapper",
+  "version": "0.0.0",
+  "authors": [
+    "Cameron Wilby <cameron@wilby.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
